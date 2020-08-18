@@ -46,6 +46,15 @@
 <p align="center">
 <img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/dcgan.png" width="800" />
 </p>
+#### Generator
+* Purpose : cheat Discriminator
+* Input : Random Noise with Normal Distribution(0,1), shape(100) 
+* Output : Image shape same as true face image, shape(64, 64, 3)
+
+#### Discriminator
+* Purpose : Distinguish image comes from Genertors and true image.
+* Input : fake image generate by Generator + True Image, shape(64, 64, 3)
+* Output : Probability if the image are true image or not. (1)
 
 ## Demo
 [jupyter notebook](https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/main.ipynb)
