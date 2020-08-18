@@ -33,12 +33,21 @@
 </tr>
 </table>
 
-### Generate Image
-
-### Training History
-
 ## Datasets
+* Data getting from Internet.
+[Face_dataset](https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/input/data/face_dataset.7z)
  
 ## Model
+### Optimizer(Adam)
+ * Discriminator : learning rate = 0.00005, betas = (0.5, 0.999)
+ * Generator : learning rate = 0.001, betas = (0.5, 0.999)
+ 
+### DCGAN
+<p align="center">
+<img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/dcgan.png" width="800" />
+</p>
 
-## Ckeckpoints
+## Demo
+[jupyter notebook](https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/main.ipynb)
+
+* Set CUDA to -1 for training without GPU.dc
