@@ -38,6 +38,7 @@
 [Face_dataset](https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/input/data/face_dataset.7z)
  
 ## Model
+
 ### Optimizer(Adam)
  * Discriminator : learning rate = 0.00005, betas = (0.5, 0.999)
  * Generator : learning rate = 0.001, betas = (0.5, 0.999)
@@ -46,6 +47,7 @@
 <p align="center">
 <img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/dcgan.png" width="800" />
 </p>
+
 #### Generator
 * Purpose : cheat Discriminator
 * Input : Random Noise with Normal Distribution(0,1), shape(100) 
