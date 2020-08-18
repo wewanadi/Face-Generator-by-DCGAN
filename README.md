@@ -61,4 +61,4 @@
 ## Demo
 [jupyter notebook](https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/main.ipynb)
 
-* Set CUDA to -1 for training without GPU.dc
+* Set CUDA to -1 for training without GPU.
