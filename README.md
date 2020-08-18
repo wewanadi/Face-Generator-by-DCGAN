@@ -19,16 +19,13 @@
     <img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/CelebA_DCGAN_1.png" width="100%" />
     </td>
     <td>
+    <img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/CelebA_DCGAN_10.png" width="100%" />
+    </td>
+    <td>
     <img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/CelebA_DCGAN_50.png" width="100%" />
     </td>
     <td>
-    <img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/CelebA_DCGAN_100.png" width="100%" />
-    </td>
-    <td>
     <img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/CelebA_DCGAN_150.png" width="100%" />
-    </td>
-    <td>
-    <img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/CelebA_DCGAN_200.png" width="100%" />
     </td>
     <td>
     <img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/CelebA_DCGAN_300.png" width="100%" />
