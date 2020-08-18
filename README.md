@@ -1,4 +1,5 @@
 # Face-Generator-by-DCGAN
+###### tags:`DCGAN` `Generator` `Discriminator` `Pytorch`
 
 ## Outcomes
 
