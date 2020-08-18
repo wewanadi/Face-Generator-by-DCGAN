@@ -34,7 +34,7 @@
 </table>
 
 ## Datasets
-* Data getting from Internet.
+* Collecting Myself.
 [Face_dataset](https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/input/data/face_dataset.7z)
  
 ## Model
