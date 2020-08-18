@@ -35,7 +35,7 @@
 
 ## Datasets
 * Collecting Myself.
-[Face_dataset](https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/input/data/face_dataset.7z)
+[Face_dataset](https://github.com/wewanadi/Face-Generator-by-DCGAN/raw/master/input/data/face_dataset.7z)
  
 ## Model
 
