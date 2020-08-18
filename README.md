@@ -24,8 +24,6 @@
     <td>
     <img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/CelebA_DCGAN_100.png" width="100%" />
     </td>
-</tr>
-<tr>
     <td>
     <img src="https://github.com/wewanadi/Face-Generator-by-DCGAN/blob/master/image/CelebA_DCGAN_150.png" width="100%" />
     </td>
